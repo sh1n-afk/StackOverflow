@@ -1,0 +1,279 @@
+[
+  {
+    "post_id": 74567,
+    "postType": "question",
+    "isBestAnswer": false,
+    "parent_id": null,
+    "title": "How to generate editable PDF using puppeteer",
+    "tags": [
+      {
+        "name": "Java",
+        "description": "Description of Java tag...."
+      },
+      {
+        "name": "Python",
+        "description": "Description of Java tag...."
+      }
+    ],
+    "images": [
+      {
+        "image1": "URL of image"
+      }
+    ],
+    "status": "approved",
+    "upvotes": 9,
+    "downvotes": 4,
+    "numberOfAnswers": 8,
+    "number_of_views": 23,
+    "user_id": 1003,
+    "username": "test_user",
+    "profile_pic": "URL of profile pic",
+    "reputation": 6,
+    "gold": 4,
+    "silver": 2,
+    "bronze": 7,
+    "addedAt": "05/01/2022",
+    "modified_date": "04/05/2022",
+    "correct_answer": 1006,
+    "comments": [
+      {
+        "description": "Comment Text",
+        "user_id": 1010,
+        "parent_id": 74567,
+        "created_date": "04/03/2022",
+        "modified_date": "04/03/2022"
+      }
+    ],
+    "Activity": []
+  },
+  {
+    "post_id": 74568,
+    "postType": "question",
+    "isBestAnswer": false,
+    "parent_id": null,
+    "title": "How to generate editable PDF using puppeteer",
+    "tags": [
+      {
+        "name": "Java",
+        "description": "Description of Java tag...."
+      },
+      {
+        "name": "Python",
+        "description": "Description of Java tag...."
+      }
+    ],
+    "images": [
+      {
+        "image1": "URL of image"
+      }
+    ],
+    "status": "approved",
+    "upvotes": 9,
+    "downvotes": 4,
+    "numberOfAnswers": 8,
+    "number_of_views": 23,
+    "user_id": 1003,
+    "username": "test_user",
+    "profile_pic": "URL of profile pic",
+    "reputation": 6,
+    "gold": 4,
+    "silver": 2,
+    "bronze": 7,
+    "addedAt": "04/01/2022",
+    "modified_date": "04/05/2022",
+    "correct_answer": 1006,
+    "comments": [
+      {
+        "description": "Comment Text",
+        "user_id": 1010,
+        "parent_id": 74567,
+        "created_date": "04/03/2022",
+        "modified_date": "04/03/2022"
+      }
+    ],
+    "Activity": []
+  },
+  {
+    "post_id": 74569,
+    "postType": "question",
+    "isBestAnswer": false,
+    "parent_id": null,
+    "title": "How to generate editable PDF using puppeteer",
+    "tags": [
+      {
+        "name": "Java",
+        "description": "Description of Java tag...."
+      },
+      {
+        "name": "Python",
+        "description": "Description of Java tag...."
+      }
+    ],
+    "images": [
+      {
+        "image1": "URL of image"
+      }
+    ],
+    "status": "approved",
+    "upvotes": 9,
+    "downvotes": 4,
+    "numberOfAnswers": 8,
+    "number_of_views": 23,
+    "user_id": 1003,
+    "username": "test_user",
+    "profile_pic": "URL of profile pic",
+    "reputation": 6,
+    "gold": 4,
+    "silver": 2,
+    "bronze": 7,
+    "addedAt": "04/01/2022",
+    "modified_date": "04/05/2022",
+    "correct_answer": 1006,
+    "comments": [
+      {
+        "description": "Comment Text",
+        "user_id": 1010,
+        "parent_id": 74567,
+        "created_date": "04/03/2022",
+        "modified_date": "04/03/2022"
+      }
+    ],
+    "Activity": []
+  },
+  {
+    "question_id": 74568,
+    "postType": "answer",
+    "isBest": true,
+    "title": "How to update/re-render component only after last XHR completed?",
+    "tags": [
+      {
+        "name": "Java",
+        "description": "Description of Java tag...."
+      },
+      {
+        "name": "MongoDB",
+        "description": "Description of Java tag...."
+      }
+    ],
+    "images": [
+      {
+        "image1": "URL of image"
+      }
+    ],
+    "status": "approved",
+    "upvotes": 5,
+    "downvotes": 4,
+    "numberOfAnswers": 5,
+    "number_of_views": 33,
+    "user_id": 1003,
+    "username": "test_user",
+    "profile_pic": "URL of profile pic",
+    "reputation": 6,
+    "gold": 4,
+    "silver": 2,
+    "bronze": 7,
+    "addedAt": "04/01/2022",
+    "modified_date": "04/05/2022",
+    "correct_answer": null,
+    "answers": [
+      {
+        "user_id": 1006,
+        "question_id": 74567,
+        "answer_id": 87527,
+        "description": "Answer Text",
+        "upvotes": 6,
+        "downvotes": 0,
+        "comments": [
+          {
+            "description": "Comment Text",
+            "user_id": 1008,
+            "parent_id": 87527,
+            "created_date": "04/03/2022",
+            "modified_date": "04/03/2022"
+          }
+        ],
+        "created_date": "04/03/2022",
+        "modified_date": "04/03/2022",
+        "isBest": true
+      }
+    ],
+    "comments": [
+      {
+        "description": "Comment Text",
+        "user_id": 1010,
+        "parent_id": 74567,
+        "created_date": "04/03/2022",
+        "modified_date": "04/03/2022"
+      }
+    ],
+    "Activity": []
+  },
+  {
+    "question_id": 74568,
+    "postType": "question",
+    "isBest": false,
+    "title": "How to add background image class to tailwind config in CRA application",
+    "tags": [
+      {
+        "name": "Java",
+        "description": "Description of Java tag...."
+      },
+      {
+        "name": "JavaScript",
+        "description": "Description of Java tag...."
+      }
+    ],
+    "images": [
+      {
+        "image1": "URL of image"
+      }
+    ],
+    "status": "approved",
+    "upvotes": 7,
+    "downvotes": 0,
+    "numberOfAnswers": 5,
+    "number_of_views": 10,
+    "user_id": 1003,
+    "username": "test_user",
+    "profile_pic": "URL of profile pic",
+    "reputation": 6,
+    "gold": 4,
+    "silver": 2,
+    "bronze": 7,
+    "addedAt": "04/01/2022",
+    "modified_date": "04/05/2022",
+    "correct_answer": 1006,
+    "answers": [
+      {
+        "user_id": 1006,
+        "question_id": 74567,
+        "answer_id": 87527,
+        "description": "Answer Text",
+        "upvotes": 6,
+        "downvotes": 0,
+        "comments": [
+          {
+            "description": "Comment Text",
+            "user_id": 1008,
+            "parent_id": 87527,
+            "created_date": "04/03/2022",
+            "modified_date": "04/03/2022"
+          }
+        ],
+        "created_date": "04/03/2022",
+        "modified_date": "04/03/2022",
+        "isBest": true
+      }
+    ],
+    "comments": [
+      {
+        "description": "Comment Text",
+        "user_id": 1010,
+        "parent_id": 74567,
+        "created_date": "04/03/2022",
+        "modified_date": "04/03/2022"
+      }
+    ],
+    "Activity": []
+  }
+]

@@ -1,0 +1,55 @@
+.tags-rowDiv{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.tags-customLink{
+    text-decoration: none;
+    font-size: 14px;
+    color: #0074CC;
+}
+
+.tags-customLink:hover{
+    opacity: 0.8;
+}
+
+.tags-title{
+    display: inline-block;
+    background-color: #E1ECF4;
+    color: #5183A8;
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.tags-card{
+    display: flex;
+}
+.tags-card-content{
+    padding-left: 5px;
+}
+.tags-image-container{
+    width: 100px;
+    height: 100px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tags-margin0 {
+    margin: 0;
+}
+
+.tags-score {
+    color: rgb(106,115,124);
+    /* font-weight: bold; */
+    font-size: 12px;
+}
+
+.tags-posts {
+    color: rgb(106,115,124);
+    font-size: 12px;
+    font-weight: bold;
+}

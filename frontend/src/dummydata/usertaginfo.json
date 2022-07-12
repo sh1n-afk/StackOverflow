@@ -1,0 +1,50 @@
+[
+  {
+    "userId": 1001,
+    "tagName": "python",
+    "score": 25,
+    "posts": 366
+  },
+  {
+    "userId": 1001,
+    "tagName": "pandas",
+    "score": 12,
+    "posts": 366
+  },
+  {
+    "userId": 1001,
+    "tagName": "dataframe",
+    "score": 433,
+    "posts": 2313
+  },
+  {
+    "userId": 1001,
+    "tagName": "numpy",
+    "score": 12,
+    "posts": 4
+  },
+  {
+    "userId": 1001,
+    "tagName": "list",
+    "score": 12,
+    "posts": 431
+  },
+  {
+    "userId": 1001,
+    "tagName": "python-3.x",
+    "score": 543,
+    "posts": 1222
+  },
+  {
+    "userId": 1001,
+    "tagName": "java",
+    "score": 543,
+    "posts": 366
+  },
+  {
+    "userId": 1001,
+    "tagName": "javascript",
+    "score": 25,
+    "posts": 366
+  }
+]

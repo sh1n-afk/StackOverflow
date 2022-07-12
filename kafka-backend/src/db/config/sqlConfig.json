@@ -1,0 +1,10 @@
+{
+  "DB": {
+    "host": "etsy.c5bcnawebmvb.us-east-2.rds.amazonaws.com",
+    "username": "admin",
+    "password": "apup%123",
+    "port": 3306,
+    "database": "StackOverflow"
+  },
+  "secret": ""
+}
